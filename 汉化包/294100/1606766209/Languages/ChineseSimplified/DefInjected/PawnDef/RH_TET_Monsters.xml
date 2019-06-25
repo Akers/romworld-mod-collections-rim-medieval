@@ -17,13 +17,13 @@
   <RH_TET_ChaosSpawnRace.tools.5.label>右脚</RH_TET_ChaosSpawnRace.tools.5.label>
   <RH_TET_ChaosSpawnRace.tools.6.label>牙齿</RH_TET_ChaosSpawnRace.tools.6.label>
   <RH_TET_ChaosSpawnRace.tools.7.label>头</RH_TET_ChaosSpawnRace.tools.7.label>
-  <RH_TET_ChaosSpawnRace_Leather.label>混沌之卵皮革</RH_TET_ChaosSpawnRace_Leather.label>
-  <RH_TET_ChaosSpawnRace_Leather.description>混沌之卵皮革</RH_TET_ChaosSpawnRace_Leather.description>
-  <RH_TET_ChaosSpawnRace_Leather.stuffProps.stuffAdjective>混沌之卵皮革</RH_TET_ChaosSpawnRace_Leather.stuffProps.stuffAdjective>
-  <RH_TET_ChaosSpawnRace_Meat.label>混沌之卵肉</RH_TET_ChaosSpawnRace_Meat.label>
-  <RH_TET_ChaosSpawnRace_Meat.description>混沌之卵肉</RH_TET_ChaosSpawnRace_Meat.description>
-  <RH_TET_ChaosSpawnRace_Corpse.label>混沌之卵尸体</RH_TET_ChaosSpawnRace_Corpse.label>
-  <RH_TET_ChaosSpawnRace_Corpse.description>混沌之卵尸体</RH_TET_ChaosSpawnRace_Corpse.description>
+  <!-- <RH_TET_ChaosSpawnRace_Leather.label>混沌之卵皮革</RH_TET_ChaosSpawnRace_Leather.label> -->
+  <!-- <RH_TET_ChaosSpawnRace_Leather.description>混沌之卵皮革</RH_TET_ChaosSpawnRace_Leather.description> -->
+  <!-- <RH_TET_ChaosSpawnRace_Leather.stuffProps.stuffAdjective>混沌之卵皮革</RH_TET_ChaosSpawnRace_Leather.stuffProps.stuffAdjective> -->
+  <!-- <RH_TET_ChaosSpawnRace_Meat.label>混沌之卵肉</RH_TET_ChaosSpawnRace_Meat.label> -->
+  <!-- <RH_TET_ChaosSpawnRace_Meat.description>混沌之卵肉</RH_TET_ChaosSpawnRace_Meat.description> -->
+  <!-- <RH_TET_ChaosSpawnRace_Corpse.label>混沌之卵尸体</RH_TET_ChaosSpawnRace_Corpse.label>
+  <RH_TET_ChaosSpawnRace_Corpse.description>混沌之卵尸体</RH_TET_ChaosSpawnRace_Corpse.description> -->
 
   <RH_TET_ChaosSpawnAncientRace.label>远古混沌之卵</RH_TET_ChaosSpawnAncientRace.label>
 	<RH_TET_ChaosSpawnAncientRace.description>一种恶心污秽的远古混沌产物，曾经或许是正常的人或动物, 但它现在是如此的腐化以至于无法分辨。</RH_TET_ChaosSpawnAncientRace.description>
@@ -35,13 +35,13 @@
   <RH_TET_ChaosSpawnAncientRace.tools.5.label>右脚</RH_TET_ChaosSpawnAncientRace.tools.5.label>
   <RH_TET_ChaosSpawnAncientRace.tools.6.label>牙齿</RH_TET_ChaosSpawnAncientRace.tools.6.label>
   <RH_TET_ChaosSpawnAncientRace.tools.7.label>头</RH_TET_ChaosSpawnAncientRace.tools.7.label>
-  <RH_TET_ChaosSpawnAncientRace_Leather.label>远古混沌之卵皮革</RH_TET_ChaosSpawnAncientRace_Leather.label>
+  <!-- <RH_TET_ChaosSpawnAncientRace_Leather.label>远古混沌之卵皮革</RH_TET_ChaosSpawnAncientRace_Leather.label>
   <RH_TET_ChaosSpawnAncientRace_Leather.description>远古混沌之卵皮革</RH_TET_ChaosSpawnAncientRace_Leather.description>
   <RH_TET_ChaosSpawnAncientRace_Leather.stuffProps.stuffAdjective>远古混沌之卵皮革</RH_TET_ChaosSpawnAncientRace_Leather.stuffProps.stuffAdjective>
   <RH_TET_ChaosSpawnAncientRace_Meat.label>远古混沌之卵肉</RH_TET_ChaosSpawnAncientRace_Meat.label>
   <RH_TET_ChaosSpawnAncientRace_Meat.description>远古混沌之卵肉</RH_TET_ChaosSpawnAncientRace_Meat.description>
   <RH_TET_ChaosSpawnAncientRace_Corpse.label>远古混沌之卵尸体</RH_TET_ChaosSpawnAncientRace_Corpse.label>
-  <RH_TET_ChaosSpawnAncientRace_Corpse.description>远古混沌之卵尸体</RH_TET_ChaosSpawnAncientRace_Corpse.description>
+  <RH_TET_ChaosSpawnAncientRace_Corpse.description>远古混沌之卵尸体</RH_TET_ChaosSpawnAncientRace_Corpse.description> -->
 
 
   <RH_TET_RazorgorRace.label>拉兹戈尔兽</RH_TET_RazorgorRace.label>
@@ -51,13 +51,13 @@
   <RH_TET_RazorgorRace.tools.2.label>右蹄</RH_TET_RazorgorRace.tools.2.label>
   <RH_TET_RazorgorRace.tools.3.label>剃刀獠牙</RH_TET_RazorgorRace.tools.3.label>
   <RH_TET_RazorgorRace.tools.4.label>头</RH_TET_RazorgorRace.tools.4.label>
-  <RH_TET_RazorgorRace_Leather.label>拉兹戈尔兽皮革</RH_TET_RazorgorRace_Leather.label>
+  <!-- <RH_TET_RazorgorRace_Leather.label>拉兹戈尔兽皮革</RH_TET_RazorgorRace_Leather.label>
   <RH_TET_RazorgorRace_Leather.description>拉兹戈尔兽皮革</RH_TET_RazorgorRace_Leather.description>
   <RH_TET_RazorgorRace_Leather.stuffProps.stuffAdjective>拉兹戈尔兽皮革</RH_TET_RazorgorRace_Leather.stuffProps.stuffAdjective>
   <RH_TET_RazorgorRace_Meat.label>拉兹戈尔兽肉</RH_TET_RazorgorRace_Meat.label>
   <RH_TET_RazorgorRace_Meat.description>拉兹戈尔兽肉</RH_TET_RazorgorRace_Meat.description>
   <RH_TET_RazorgorRace_Corpse.label>拉兹戈尔兽尸体</RH_TET_RazorgorRace_Corpse.label>
-  <RH_TET_RazorgorRace_Corpse.description>拉兹戈尔兽尸体</RH_TET_RazorgorRace_Corpse.description>
+  <RH_TET_RazorgorRace_Corpse.description>拉兹戈尔兽尸体</RH_TET_RazorgorRace_Corpse.description> -->
 
 
   <!-- Pawn Kind -->
