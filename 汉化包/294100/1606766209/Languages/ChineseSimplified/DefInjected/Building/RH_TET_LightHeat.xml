@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RH_TET_Brazier.label>火盆</RH_TET_Brazier.label>
+  <RH_TET_Brazier.description>一个用于照明并加热附近区域的火盆。 人们需要光才可以全速工作及移动。 可以用木材或煤炭作为燃料，并产生中等的热量。</RH_TET_Brazier.description>
+
+  <RH_TET_Sconce.label>壁灯</RH_TET_Brazier.label>
+  <RH_TET_Sconce.description>附在墙上的木制火炬，用于照亮一个区域。 人们需要光才可以全速工作及移动。 可以用木材或煤炭作为燃料，并产生微量的热量。</RH_TET_Brazier.description>
+
+</LanguageData>

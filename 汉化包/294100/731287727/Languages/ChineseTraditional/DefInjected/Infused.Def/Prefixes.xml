@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 0 -->
+
+  <Light.label>light</Light.label>
+  <Light.labelShort>lite</Light.labelShort>
+
+  <LightApparel.label>light</LightApparel.label>
+  <LightApparel.labelShort>lite</LightApparel.labelShort>
+
+  <Heavy.label>heavy</Heavy.label>
+  <Heavy.labelShort>hvy</Heavy.labelShort>
+
+  <HeavyRange.label>heavy</HeavyRange.label>
+  <HeavyRange.labelShort>hvy</HeavyRange.labelShort>
+
+  <Small.label>small</Small.label>
+  <Small.labelShort>smll</Small.labelShort>
+
+  <Big.label>big</Big.label>
+  <Big.labelShort>big</Big.labelShort>
+
+  <Long.label>long</Long.label>
+  <Long.labelShort>long</Long.labelShort>
+
+  <Thick.label>thick</Thick.label>
+  <Thick.labelShort>thck</Thick.labelShort>
+
+  <Tough.label>thick</Tough.label>
+  <Tough.labelShort>thgh</Tough.labelShort>
+
+
+  <!-- Tier 1 -->
+
+  <Studded.label>sturdy</Studded.label>
+  <Studded.labelShort>stdy</Studded.labelShort>
+
+  <Fast.label>fast</Fast.label>
+  <Fast.labelShort>fast</Fast.labelShort>
+
+  <Careful.label>careful</Careful.label>
+  <Careful.labelShort>crfl</Careful.labelShort>
+
+  <CarefulRange.label>careful</CarefulRange.label>
+  <CarefulRange.labelShort>crfl</CarefulRange.labelShort>
+
+  <Attractive.label>attractive</Attractive.label>
+  <Attractive.labelShort>attr</Attractive.labelShort>
+
+  <Hard.label>hard</Hard.label>
+  <Hard.labelShort>hard</Hard.labelShort>
+
+  <Soft.label>soft</Soft.label>
+  <Soft.labelShort>soft</Soft.labelShort>
+
+  <Mercenary.label>mercenary</Mercenary.label>
+  <Mercenary.labelShort>merc</Mercenary.labelShort>
+
+  <MercenaryRange.label>mercenary</MercenaryRange.label>
+  <MercenaryRange.labelShort>merc</MercenaryRange.labelShort>
+
+  <Spiked.label>spiked</Spiked.label>
+  <Spiked.labelShort>spk</Spiked.labelShort>
+
+  <SawedOff.label>sawed off</SawedOff.label>
+  <SawedOff.labelShort>saw</SawedOff.labelShort>
+
+  <Warm.label>warm</Warm.label>
+  <Warm.labelShort>warm</Warm.labelShort>
+
+  <Breezing.label>breezing</Breezing.label>
+  <Breezing.labelShort>brz</Breezing.labelShort>
+
+
+  <!-- Tier 2 ! -->
+
+  <Charming.label>charming</Charming.label>
+  <Charming.labelShort>chrm</Charming.labelShort>
+
+  <Siege.label>siege</Siege.label>
+  <Siege.labelShort>sige</Siege.labelShort>
+
+  <Precise.label>precise</Precise.label>
+  <Precise.labelShort>prcs</Precise.labelShort>
+
+  <Clean.label>clean</Clean.label>
+  <Clean.labelShort>cln</Clean.labelShort>
+
+  <Assaulting.label>assaulting</Assaulting.label>
+  <Assaulting.labelShort>aslt</Assaulting.labelShort>
+
+  <AssaultingRange.label>assaulting</AssaultingRange.label>
+  <AssaultingRange.labelShort>aslt</AssaultingRange.labelShort>
+
+  <Healing.label>healing</Healing.label>
+  <Healing.labelShort>heal</Healing.labelShort>
+
+  <Weaving.label>weaving</Weaving.label>
+  <Weaving.labelShort>weav</Weaving.labelShort>
+
+  <Hunting.label>hunting</Hunting.label>
+  <Hunting.labelShort>hunt</Hunting.labelShort>
+
+  <Cooking.label>cooking</Cooking.label>
+  <Cooking.labelShort>cook</Cooking.labelShort>
+
+  <Mining.label>mining</Mining.label>
+  <Mining.labelShort>mine</Mining.labelShort>
+
+  <Establishing.label>establishing</Establishing.label>
+  <Establishing.labelShort>estb</Establishing.labelShort>
+
+  <Farming.label>farming</Farming.label>
+  <Farming.labelShort>farm</Farming.labelShort>
+
+  <Stonevein.label>stonevein</Stonevein.label>
+  <Stonevein.labelShort>stne</Stonevein.labelShort>
+
+  <Metalvein.label>metalvein</Metalvein.label>
+  <Metalvein.labelShort>mtal</Metalvein.labelShort>
+
+  <Taming.label>taming</Taming.label>
+  <Taming.labelShort>tame</Taming.labelShort>
+
+  <Professional.label>professional</Professional.label>
+  <Professional.labelShort>prof</Professional.labelShort>
+
+  <Unholy.label>unholy</Unholy.label>
+  <Unholy.labelShort>uhly</Unholy.labelShort>
+
+  <UnholyRange.label>unholy</UnholyRange.label>
+  <UnholyRange.labelShort>uhly</UnholyRange.labelShort>
+
+  <Blocking.label>blocking</Blocking.label>
+  <Blocking.labelShort>blck</Blocking.labelShort>
+
+  <Protecting.label>protecting</Protecting.label>
+  <Protecting.labelShort>prtc</Protecting.labelShort>
+
+  <Swerving.label>swerving</Swerving.label>
+  <Swerving.labelShort>swrv</Swerving.labelShort>
+
+  <Heating.label>heating</Heating.label>
+  <Heating.labelShort>heat</Heating.labelShort>
+
+  <Chilling.label>chilling</Chilling.label>
+  <Chilling.labelShort>chil</Chilling.labelShort>
+
+  <Coated.label>coated</Coated.label>
+  <Coated.labelShort>coat</Coated.labelShort>
+
+
+  <!-- Tier 3 ! -->
+
+  <Homing.label>homing</Homing.label>
+  <Homing.labelShort>hmg</Homing.labelShort>
+
+  <HomingRange.label>homing</HomingRange.label>
+  <HomingRange.labelShort>hmg</HomingRange.labelShort>
+
+  <Swift.label>swift</Swift.label>
+  <Swift.labelShort>swft</Swift.labelShort>
+
+  <SwiftApparel.label>swift</SwiftApparel.label>
+  <SwiftApparel.labelShort>swft</SwiftApparel.labelShort>
+
+  <Ancient.label>ancient</Ancient.label>
+  <Ancient.labelShort>anci</Ancient.labelShort>
+
+  <AncientRange.label>ancient</AncientRange.label>
+  <AncientRange.labelShort>anci</AncientRange.labelShort>
+
+  <AncientApparel.label>ancient</AncientApparel.label>
+  <AncientApparel.labelShort>anci</AncientApparel.labelShort>
+
+  <Controlling.label>controlling</Controlling.label>
+  <Controlling.labelShort>ctrl</Controlling.labelShort>
+
+  <Fel.label>fel</Fel.label>
+  <Fel.labelShort>fel</Fel.labelShort>
+
+  <FelRange.label>fel</FelRange.label>
+  <FelRange.labelShort>fel</FelRange.labelShort>
+
+  <Communicating.label>communicating</Communicating.label>
+  <Communicating.labelShort>comm</Communicating.labelShort>
+
+  <Absorbing.label>absorbing</Absorbing.label>
+  <Absorbing.labelShort>absb</Absorbing.labelShort>
+
+  <Burning.label>burning</Burning.label>
+  <Burning.labelShort>burn</Burning.labelShort>
+
+  <Freezing.label>freezing</Freezing.label>
+  <Freezing.labelShort>frez</Freezing.labelShort>
+
+  <Modulating.label>modulating</Modulating.label>
+  <Modulating.labelShort>mdul</Modulating.labelShort>
+
+
+  <!-- Tier 4 ! -->
+
+  <Destructive.label>destructive</Destructive.label>
+  <Destructive.labelShort>dest</Destructive.labelShort>
+
+  <Amplified.label>amplified</Amplified.label>
+  <Amplified.labelShort>amp</Amplified.labelShort>
+
+  <Scribing.label>scribing</Scribing.label>
+  <Scribing.labelShort>scrb</Scribing.labelShort>
+
+  <Everprotecting.label>everprotecting</Everprotecting.label>
+  <Everprotecting.labelShort>evep</Everprotecting.labelShort>
+
+  <Deflecting.label>deflecting</Deflecting.label>
+  <Deflecting.labelShort>defl</Deflecting.labelShort>
+
+  <Gravitational.label>gravitational</Gravitational.label>
+  <Gravitational.labelShort>grav</Gravitational.labelShort>
+
+  <Fluctuating.label>fluctuating</Fluctuating.label>
+  <Fluctuating.labelShort>fluc</Fluctuating.labelShort>
+
+  <Icy.label>icy</Icy.label>
+  <Icy.labelShort>icy</Icy.labelShort>
+
+  <Volcanic.label>volcanic</Volcanic.label>
+  <Volcanic.labelShort>volc</Volcanic.labelShort>
+
+  <Influential.label>influential</Influential.label>
+  <Influential.labelShort>infl</Influential.labelShort>
+
+
+  <!-- Tier 5 ! -->
+
+  <Invulnerable.label>invulnerable</Invulnerable.label>
+  <Invulnerable.labelShort>inv</Invulnerable.labelShort>
+
+  <Flexing.label>flexing</Flexing.label>
+  <Flexing.labelShort>flex</Flexing.labelShort>
+
+  <Hypercharged.label>hypercharged</Hypercharged.label>
+  <Hypercharged.labelShort>hype</Hypercharged.labelShort>
+
+  <Lightwalk.label>lightwalk</Lightwalk.label>
+  <Lightwalk.labelShort>lwlk</Lightwalk.labelShort>
+
+
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <SleepingMechanoids.label>休眠的机械族</SleepingMechanoids.label>
+  <SleepingMechanoids.description>一群休眠的机械族</SleepingMechanoids.description>
+  <SleepingMechanoids.descriptionDialogue>当前区域中有 {0} 个休眠的机械族</SleepingMechanoids.descriptionDialogue>
+  <SleepingMechanoids.arrivedLetter>当前区域中有一些休眠的机械族。\n\n天知道当你靠近的时候它们是否会被唤醒，所以千万要小心！</SleepingMechanoids.arrivedLetter>
+</LanguageData>

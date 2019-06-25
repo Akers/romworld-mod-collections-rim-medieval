@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RH_TET_Tab.label>终焉之时</RH_TET_Tab.label>
+  <!-- Row 1 -->
+
+  <RH_TET_Stove.label>燃料炉灶</RH_TET_Stove.label>
+  <RH_TET_Stove.description>解锁建造燃料炉灶，可用于加温的同时也可用于烹饪食物。</RH_TET_Stove.description>
+  <RH_TET_HeatLight.label>光亮和取暖</RH_TET_HeatLight.label>
+  <RH_TET_HeatLight.description>解锁建造一个比火炬更坚固实用的提供光亮和取暖的火盆以及壁式火炬。</RH_TET_HeatLight.description>
+  <RH_TET_FoodPreservation.label>食物保存</RH_TET_FoodPreservation.label>
+  <RH_TET_FoodPreservation.description>允许制作腌渍食品和熏肉干以延长蔬菜和肉类的保质期。 \ n \ n解锁一个腌菜缸制作腌渍食物。 解锁烟熏罐和烘干柜，用于制作肉干。 \ n \ n腌制：腌制食品在没有冷藏的情况下持续一个季节。 这对旅行很有好处。 \ n \ n熏肉干：熏肉干的制作分两个步骤，但产品在每个步骤后都可以食用，并在每个步骤后延长保质期。 熏肉比肉的保质期长，非冷藏情况下可保存一个季节。 在烘干柜中干燥熏制的肉是制作熏肉干的第二步，熏肉干可保存一年的时间，而且十分美味因此食用时可以给殖民者带来好心情。</RH_TET_FoodPreservation.description>
+  <RH_TET_ComponentConstruction.label>锻造部件</RH_TET_ComponentConstruction.label>
+  <RH_TET_ComponentConstruction.description>解锁基于燃料锻造台或熔炉的部件锻造的工艺。</RH_TET_ComponentConstruction.description>
+  
+</LanguageData>

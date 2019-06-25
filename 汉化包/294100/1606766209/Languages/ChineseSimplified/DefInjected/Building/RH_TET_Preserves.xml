@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RH_TET_PicklingCrock.label>腌菜缸</RH_TET_PicklingCrock.label>
+  <RH_TET_PicklingCrock.description>一个石制的缸子，可以用来腌渍肉类和蔬菜。</RH_TET_PicklingCrock.description>
+  <RH_TET_CuringPot.label>烟熏锅</RH_TET_CuringPot.label>
+  <RH_TET_CuringPot.description>一个普通的铁锅，可以用来熏制肉类。</RH_TET_CuringPot.description>
+  <RH_TET_CuringCabinet.label>风干箱</RH_TET_CuringCabinet.label>
+  <RH_TET_CuringCabinet.description>将熏制后的肉放入风干箱中以制成风干腊肉。</RH_TET_CuringCabinet.description>
+</LanguageData>

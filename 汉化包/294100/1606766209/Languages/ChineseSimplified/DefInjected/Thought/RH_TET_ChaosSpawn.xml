@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RH_TET_ObservedChaosSpawn.stages.0.label>观察混沌之卵</RH_TET_ObservedChaosSpawn.stages.0.label>
+  <RH_TET_ObservedChaosSpawn.stages.0.description>我目睹了我能想到的最邪恶的混乱之一。这确实让人不安.</RH_TET_ObservedChaosSpawn.stages.0.description>
+
+  <RH_TET_ObservedChaosSpawnDead.stages.0.label>观察死了的混沌之卵</RH_TET_ObservedChaosSpawnDead.stages.0.label>
+  <RH_TET_ObservedChaosSpawnDead.stages.0.description>世界上一些邪恶污染已经被消除。这给我带来了一些安宁。</RH_TET_ObservedChaosSpawnDead.stages.0.description>
+
+  <AteChaosMeatDirect.stages.0.label>吃了生的混沌之卵肉</AteChaosMeatDirect.stages.0.label>
+  <AteChaosMeatDirect.stages.0.description>我吃了一些被腐化的肉。这可能是我吃过的最恶心但又最美味的东西。</AteChaosMeatDirect.stages.0.description>
+
+  <AteChaosMeatAsIngredient.stages.0.label>吃了熟的混沌之卵肉</AteChaosMeatAsIngredient.stages.0.label>
+  <AteChaosMeatAsIngredient.stages.0.description>我吃了一顿用被腐化的肉做的饭。味道很惊人, 但我觉得相当不安。</AteChaosMeatAsIngredient.stages.0.description>
+
+  <TH_TET_ColonistCorrupted.stages.0.label>殖民者变异成混沌怪物</TH_TET_ColonistCorrupted.stages.0.label>
+  <TH_TET_ColonistCorrupted.stages.0.description>一个殖民者屈服于混乱, 变异成一个混沌之卵</TH_TET_ColonistCorrupted.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <AnimalTab.LabelHeaderTip>点击: 按名字排序\nCtrl + 点击: 按分类排序</AnimalTab.LabelHeaderTip>
+    <AnimalTab.AnimalRenamed>{0} 已被改名为 {1}.</AnimalTab.AnimalRenamed>
+    <AnimalTab.CtrlClickToRename>Ctrl + 点击: 改名</AnimalTab.CtrlClickToRename>
+    <AnimalTab.GatherableTip>{0} x{1}</AnimalTab.GatherableTip>
+    <AnimalTab.AllowedAreaTip>Shift + 点击: 批量管理非活动区\nCtrl + 点击: 管理活动区</AnimalTab.AllowedAreaTip>
+    <AnimalTab.MasterHeaderTip>Shift + 点击: 批量分配主人</AnimalTab.MasterHeaderTip>
+    <AnimalTab.MassAssignMasterNone>取消全部分配</AnimalTab.MassAssignMasterNone>
+	<AnimalTab.MassAssignMasterBonded>分配给有羁绊关系的殖民者</AnimalTab.MassAssignMasterBonded>
+	<AnimalTab.MassAssignMaster>全部分配给 {0} ( 技能 {1}, {2}/{3} 可以被分配 )</AnimalTab.MassAssignMaster>
+	<AnimalTab.NoObedientAnimals>没有已驯服的动物可供分配</AnimalTab.NoObedientAnimals>
+
+    <AnimalTab.Not>不是 {0}</AnimalTab.Not>
+    <AnimalTab.Any>任意</AnimalTab.Any>
+    <AnimalTab.All>全部</AnimalTab.All>
+    <AnimalTab.And> 且 </AnimalTab.And>
+    <AnimalTab.Or> 或 </AnimalTab.Or>
+    <AnimalTab.Comma>, </AnimalTab.Comma>
+
+    <AnimalTab.FilterTip>显示 {0} 动物\n\n点击显示 {1} 动物</AnimalTab.FilterTip>
+    <AnimalTab.TrainableFilterTip>显示已训练 {0} 的动物\n\n点击改变过滤条件</AnimalTab.TrainableFilterTip>
+    <AnimalTab.IntelligenceFilterTip>显示智力高于 {0} 的动物\n\n点击改变过滤条件</AnimalTab.IntelligenceFilterTip>
+    <AnimalTab.PawnKindFilterTip>显示 {0}\n\n点击改变过滤条件</AnimalTab.PawnKindFilterTip>
+    <AnimalTab.FilterInactiveTip>显示所有动物\n\n点击改变过滤条件</AnimalTab.FilterInactiveTip>
+    <AnimalTab.XofYShown>已展示{0}/{1}个动物</AnimalTab.XofYShown>
+    
+    <!-- Because for some odd reason, TrainableIntelligendeDefs have their labels defined with keyed translations
+    and vanilla doesn't define the label for 'Super Advanced', presumably because it is not used. -->
+    <TrainableIntelligence_SuperAdvanced>super advanced</TrainableIntelligence_SuperAdvanced>
+
+    <!-- training tooltip status lines -->
+    <Fluffy.AnimalTab.XHasMasteredY>{0} 已掌握 {1}</Fluffy.AnimalTab.XHasMasteredY>
+    <Fluffy.AnimalTab.XHasLearnedYOutOfZ>{0} 已学会该技能的 {1}/{2} </Fluffy.AnimalTab.XHasLearnedYOutOfZ>
+    <Fluffy.AnimalTab.XHasForgottenYOutOfZ>{0} 已遗忘该技能的 {1}/{2} </Fluffy.AnimalTab.XHasForgottenYOutOfZ>
+    <Fluffy.AnimalTab.XIsDesignatedTrainY>{0} 已被指定训练 {1}</Fluffy.AnimalTab.XIsDesignatedTrainY>
+    <Fluffy.AnimalTab.XIsNotDesignatedTrainY>{0} 不再被指定训练 {2}, 随着时间流逝该技能将被遗忘</Fluffy.AnimalTab.XIsNotDesignatedTrainY>
+</LanguageData>

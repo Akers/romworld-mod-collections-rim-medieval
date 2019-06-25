@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <Quest_JourneyOffer.label>逃生舱任务</Quest_JourneyOffer.label>
+  <Quest_PrisonerRescue.label>囚犯营救任务</Quest_PrisonerRescue.label>
+	<Quest_PrisonerRescue.letterLabel>囚犯营救任务</Quest_PrisonerRescue.letterLabel>
+	<Quest_PrisonerRescue.letterText>一个被囚禁的囚犯 {0} 联系了你!\n\n{PAWN_nameDef} 正被关押在具备武装看守的营地内。营救 {PAWN_objective}, 同时 {PAWN_pronoun} 会加入你的殖民地 {PAWN_pronoun} 是一个 {1} 岁的 {2}， {PAWN_pronoun} 的留言： {3}。</Quest_PrisonerRescue.letterText>
+</LanguageData>

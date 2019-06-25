@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Keeping it here to not break saves but it has no pool, chance to get it is none -->
+
+  <SawedOff.label>短管的</SawedOff.label>
+  <SawedOff.labelShort>短管</SawedOff.labelShort>
+
+  <SawedOff_Common.label>精干的</SawedOff_Common.label>
+  <SawedOff_Common.labelShort>精干</SawedOff_Common.labelShort>
+
+  <SawedOff_Uncommon.label>袖珍的</SawedOff_Uncommon.label>
+  <SawedOff_Uncommon.labelShort>袖珍</SawedOff_Uncommon.labelShort>
+
+  <SawedOff_Rare.label>萝莉的</SawedOff_Rare.label>
+  <SawedOff_Rare.labelShort>萝莉</SawedOff_Rare.labelShort>
+
+  <SawedOff_Epic.label>兵长的</SawedOff_Epic.label>
+  <SawedOff_Epic.labelShort>兵长</SawedOff_Epic.labelShort>
+
+
+</LanguageData>

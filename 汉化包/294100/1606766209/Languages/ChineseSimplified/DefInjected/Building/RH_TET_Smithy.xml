@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RH_TET_DoSmithing.label>铁匠</RH_TET_DoSmithing.label>
+  <RH_TET_TableSmithy.label>铁砧和锻炉</RH_TET_TableSmithy.label>
+  <RH_TET_TableSmithy.description>用于锻造武器和盔甲</RH_TET_TableSmithy.description>
+  <RH_TET_TableSmithy_Blueprint.label>铁砧和锻炉 (蓝图)</RH_TET_TableSmithy_Blueprint.label>
+  <RH_TET_TableSmithy_Blueprint_Install.label>铁砧和锻炉 (蓝图)</RH_TET_TableSmithy_Blueprint_Install.label>
+  <RH_TET_TableSmithy_Frame.label>铁砧和锻炉 (建筑物)</RH_TET_TableSmithy_Frame.label>
+  <RH_TET_TableSmithy_Frame.description>用于锻造武器和盔甲的地方。</RH_TET_TableSmithy_Frame.description>
+</LanguageData>

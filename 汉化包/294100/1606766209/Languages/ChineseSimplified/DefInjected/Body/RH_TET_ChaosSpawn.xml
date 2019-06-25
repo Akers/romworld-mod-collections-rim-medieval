@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RH_TET_LeftClaws.label>左爪</RH_TET_LeftClaws.label>
+  <RH_TET_LeftClaws.labelShort>爪</RH_TET_LeftClaws.labelShort>
+
+  <RH_TET_RightClaws.label>右爪</RH_TET_RightClaws.label>
+  <RH_TET_RightClaws.labelShort>爪</RH_TET_RightClaws.labelShort>
+
+  <RH_TET_LargeClawArms.label>双巨大爪臂</RH_TET_LargeClawArms.label>
+  <RH_TET_LargeClawArms.labelShort>爪臂</RH_TET_LargeClawArms.labelShort>
+
+  <RH_TET_LeftClawArm.label>左爪臂</RH_TET_LeftClawArm.label>
+  <RH_TET_LeftClawArm.labelShort>爪臂</RH_TET_LeftClawArm.labelShort>
+
+  <RH_TET_RightClawArm.label>右爪臂</RH_TET_RightClawArm.label>
+  <RH_TET_RightClawArm.labelShort>爪臂</RH_TET_RightClawArm.labelShort>
+
+  <RH_TET_Claw.label>爪</RH_TET_Claw.label>
+  <RH_TET_Claw.labelShort>爪</RH_TET_Claw.labelShort>
+
+  <!-- Bipedal animal similar to humans, but with extra claw arms. -->
+
+  <RH_TET_ChaosSpawnBody.label>混沌之卵</RH_TET_ChaosSpawnBody.label>
+  <RH_TET_ChaosSpawnBody.corePart.parts.0.customLabel>脊柱</RH_TET_ChaosSpawnBody.corePart.parts.0.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.1.customLabel>胃</RH_TET_ChaosSpawnBody.corePart.parts.1.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.2.customLabel>心脏</RH_TET_ChaosSpawnBody.corePart.parts.2.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.3.customLabel>左肺</RH_TET_ChaosSpawnBody.corePart.parts.3.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.4.customLabel>右肺</RH_TET_ChaosSpawnBody.corePart.parts.4.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.5.customLabel>左肾脏</RH_TET_ChaosSpawnBody.corePart.parts.5.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.6.customLabel>右肾脏</RH_TET_ChaosSpawnBody.corePart.parts.6.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.8.parts.0.parts.1.customLabel>左眼</RH_TET_ChaosSpawnBody.corePart.parts.8.parts.0.parts.1.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.8.parts.0.parts.2.customLabel>右眼</RH_TET_ChaosSpawnBody.corePart.parts.8.parts.0.parts.2.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.8.parts.0.parts.3.customLabel>左耳</RH_TET_ChaosSpawnBody.corePart.parts.8.parts.0.parts.3.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.8.parts.0.parts.4.customLabel>右耳</RH_TET_ChaosSpawnBody.corePart.parts.8.parts.0.parts.4.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.9.customLabel>左肩</RH_TET_ChaosSpawnBody.corePart.parts.9.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.9.parts.0.customLabel>左锁骨</RH_TET_ChaosSpawnBody.corePart.parts.9.parts.0.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.customLabel>左手臂</RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.0.customLabel>左肱骨</RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.0.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.1.customLabel>左桡骨</RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.1.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.2.customLabel>左手</RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.2.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.2.parts.0.customLabel>左小指</RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.2.parts.0.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.2.parts.1.customLabel>左无名指</RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.2.parts.1.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.2.parts.2.customLabel>左中指</RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.2.parts.2.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.2.parts.3.customLabel>左食指</RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.2.parts.3.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.2.parts.4.customLabel>左拇指</RH_TET_ChaosSpawnBody.corePart.parts.9.parts.2.parts.2.parts.4.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.10.customLabel>右肩</RH_TET_ChaosSpawnBody.corePart.parts.10.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.10.parts.0.customLabel>右锁骨</RH_TET_ChaosSpawnBody.corePart.parts.10.parts.0.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.customLabel>右手臂</RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.0.customLabel>右肱骨</RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.0.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.1.customLabel>右桡骨</RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.1.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.2.customLabel>右手</RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.2.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.2.parts.0.customLabel>右小指</RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.2.parts.0.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.2.parts.1.customLabel>右无名指</RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.2.parts.1.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.2.parts.2.customLabel>右中指</RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.2.parts.2.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.2.parts.3.customLabel>右食指</RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.2.parts.3.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.2.parts.4.customLabel>右拇指</RH_TET_ChaosSpawnBody.corePart.parts.10.parts.2.parts.2.parts.4.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.12.customLabel>左腿</RH_TET_ChaosSpawnBody.corePart.parts.12.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.12.parts.0.customLabel>左大腿骨</RH_TET_ChaosSpawnBody.corePart.parts.12.parts.0.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.12.parts.1.customLabel>左 胫骨</RH_TET_ChaosSpawnBody.corePart.parts.12.parts.1.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.12.parts.2.customLabel>左 脚</RH_TET_ChaosSpawnBody.corePart.parts.12.parts.2.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.12.parts.2.parts.0.customLabel>左腿第一趾</RH_TET_ChaosSpawnBody.corePart.parts.12.parts.2.parts.0.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.12.parts.2.parts.1.customLabel>左腿第二趾</RH_TET_ChaosSpawnBody.corePart.parts.12.parts.2.parts.1.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.12.parts.2.parts.2.customLabel>左腿第三趾</RH_TET_ChaosSpawnBody.corePart.parts.12.parts.2.parts.2.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.12.parts.2.parts.3.customLabel>左腿第四趾</RH_TET_ChaosSpawnBody.corePart.parts.12.parts.2.parts.3.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.12.parts.2.parts.4.customLabel>左腿第五趾</RH_TET_ChaosSpawnBody.corePart.parts.12.parts.2.parts.4.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.13.customLabel>右腿</RH_TET_ChaosSpawnBody.corePart.parts.13.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.13.parts.0.customLabel>右大腿骨</RH_TET_ChaosSpawnBody.corePart.parts.13.parts.0.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.13.parts.1.customLabel>右胫骨</RH_TET_ChaosSpawnBody.corePart.parts.13.parts.1.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.13.parts.2.customLabel>右脚</RH_TET_ChaosSpawnBody.corePart.parts.13.parts.2.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.13.parts.2.parts.0.customLabel>右腿第一趾</RH_TET_ChaosSpawnBody.corePart.parts.13.parts.2.parts.0.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.13.parts.2.parts.1.customLabel>右腿第二趾</RH_TET_ChaosSpawnBody.corePart.parts.13.parts.2.parts.1.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.13.parts.2.parts.2.customLabel>右腿第三趾</RH_TET_ChaosSpawnBody.corePart.parts.13.parts.2.parts.2.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.13.parts.2.parts.3.customLabel>右腿第四趾</RH_TET_ChaosSpawnBody.corePart.parts.13.parts.2.parts.3.customLabel>
+  <RH_TET_ChaosSpawnBody.corePart.parts.13.parts.2.parts.4.customLabel>右腿第五趾</RH_TET_ChaosSpawnBody.corePart.parts.13.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

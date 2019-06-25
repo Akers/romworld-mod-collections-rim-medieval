@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RH_TET_ChaosStorm.label>混沌风暴</RH_TET_ChaosStorm.label>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.0>tale_noun->chaos taint settling over [pawn_nameShortDef]'s [community]</RH_TET_ChaosStorm.rulePack.rulesStrings.0>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.1>tale_noun->the atmosphere near [pawn_nameShortDef]'s [community] becoming corrupted</RH_TET_ChaosStorm.rulePack.rulesStrings.1>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.2>image->an ominous glowing sky, [circumstance_group]</RH_TET_ChaosStorm.rulePack.rulesStrings.2>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.3>image->the air becoming corrupted and [circumstance_group]</RH_TET_ChaosStorm.rulePack.rulesStrings.3>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.4>image->the ground glowing gently and [circumstance_group]</RH_TET_ChaosStorm.rulePack.rulesStrings.4>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.5>image->fields of dead plants [circumstance_group]</RH_TET_ChaosStorm.rulePack.rulesStrings.5>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.6>image->[quantity_adjphrase] graves [circumstance_group]</RH_TET_ChaosStorm.rulePack.rulesStrings.6>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.7>circumstance_phrase->with no life in sight</RH_TET_ChaosStorm.rulePack.rulesStrings.7>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.8>circumstance_phrase->pulsating with a chaotic glow</RH_TET_ChaosStorm.rulePack.rulesStrings.8>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.9>circumstance_phrase->arranged in a pattern that suggests an 8 pointed star</RH_TET_ChaosStorm.rulePack.rulesStrings.9>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.10>circumstance_phrase->waiting for the chaos storm to stop</RH_TET_ChaosStorm.rulePack.rulesStrings.10>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.11>desc_sentence->[pawn_nameShortDef] lies on the ground, [pawn_possessive] body twisted at an unusual angle.</RH_TET_ChaosStorm.rulePack.rulesStrings.11>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.12>desc_sentence->[pawn_nameShortDef] hides near a [terrainfeature], gazing out with a [angstyadjective] look.</RH_TET_ChaosStorm.rulePack.rulesStrings.12>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.13>desc_sentence->[pawn_nameShortDef] looks on in shock.</RH_TET_ChaosStorm.rulePack.rulesStrings.13>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.14>desc_sentence->[pawn_nameShortDef] rests quietly with a layer of sweat upon [pawn_possessive] face.</RH_TET_ChaosStorm.rulePack.rulesStrings.14>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.15>desc_sentence->[quantity_adjphrase] dead and mutated[animal]s litter the ground.</RH_TET_ChaosStorm.rulePack.rulesStrings.15>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.16>desc_sentence->[quantity_adjphrase] dying mutated [animal]s litter the ground.</RH_TET_ChaosStorm.rulePack.rulesStrings.16>
+  <RH_TET_ChaosStorm.rulePack.rulesStrings.17>desc_sentence->[quantity_adjphrase] [animal]s mill around uncertainly, baying incessantly.</RH_TET_ChaosStorm.rulePack.rulesStrings.17>
+
+
+</LanguageData>

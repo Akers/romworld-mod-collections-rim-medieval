@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<FAFWoodTile.label>复合木地板</FAFWoodTile.label>
+	<FAFWoodTile.description>这种仿木质的压缩胶合板非常便宜，是您装修的性价比首选！</FAFWoodTile.description>
+
+	<FAFBurnedWoodTile.label>烧毁的复合木地板</FAFBurnedWoodTile.label>
+	<FAFBurnedWoodTile.description>烧毁的复合木地板，科学研究表明在复合木地板上纵火会导致它烧毁！</FAFBurnedWoodTile.description>
+
+	<FAFMetalTileA.label>钢铁格栅地板</FAFMetalTileA.label>
+	<FAFMetalTileA.description>这种钢制的格栅地板不仅耐用，而且易于清洁。大多数垃圾都会穿过它表面的孔洞掉落到虚空里！</FAFMetalTileA.description>
+
+	<FAFMetalTileB.label>钢铁地板</FAFMetalTileB.label>
+	<FAFMetalTileB.description>这些钢铁地板的设计灵感来源于当前最新潮的星舰内部通道地板镀层样式！</FAFMetalTileB.description>
+
+	<FAFTechTile.label>自适应地板</FAFTechTile.label>
+	<FAFTechTile.description>这些令人难以置信的先进地板会形成一个高效的网络集群，利用内置传感器以及高速的通信网络，这些“智能”瓷砖可以为你每一步提供最佳的表面结构。我们的宗旨是：“您的每一步都是最高效迅捷的一步”。</FAFTechTile.description>
+
+</LanguageData>

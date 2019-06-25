@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RH_TET_CookedPickling.label>需腌制食品</RH_TET_CookedPickling.label>
+  <RH_TET_CookedPickling.description>需要腌制的肉类或蔬菜。 这种物质需要在腌菜缸中腌制才能食用。 适用于保质期短或即将到期的食品。 不适合保质期很长的食品，因为其保质期会在腌制后缩短至一个季节</RH_TET_CookedPickling.description>
+
+  <RH_TET_CookedCure.label>需熏制食品</RH_TET_CookedCure.label>
+  <RH_TET_CookedCure.description>需要熏制的食品，这种食品需要在烟熏锅中进行熏制，熏制后将会变为熏制食品</RH_TET_CookedCure.description>
+
+  <RH_TET_CookPickling.label>制作腌渍食品</RH_TET_CookPickling.label>
+  <RH_TET_CookPickling.description>将生食腌制成腌渍食品</RH_TET_CookPickling.description>
+
+  <RH_TET_CookCure.label>制作烟熏食品</RH_TET_CookCure.label>
+  <RH_TET_CookCure.description>将生食熏制成烟熏食品</RH_TET_CookCure.description>
+
+  <RH_TET_PickledFood.label>腌渍食品</RH_TET_PickledFood.label>
+  <RH_TET_PickledFood.description>精心腌制后的食品，味道很好，可在未冷藏的情况下保存一个季节，适合作为旅途中的干粮。</RH_TET_PickledFood.description>
+
+  <RH_TET_CuredMeat.label>烟熏肉</RH_TET_CuredMeat.label>
+  <RH_TET_CuredMeat.description>经过烟熏的肉，味道还可以。 它保存时间比肉类长，在未冷藏情况下可保存一个季节。 在烘干箱中烘干熏肉将使其能保存得更久。</RH_TET_CuredMeat.description>
+
+  <RH_TET_DriedCuredMeat.label>熏肉干</RH_TET_DriedCuredMeat.label>
+  <RH_TET_DriedCuredMeat.description>通过熏制和干燥保存的肉，口味很棒。它比生肉甚至腌肉的保存时间更长，未冷藏时可保存一年且不会引起食物中毒。非常适合作为旅途中的干粮 。</RH_TET_DriedCuredMeat.description>
+
+</LanguageData>

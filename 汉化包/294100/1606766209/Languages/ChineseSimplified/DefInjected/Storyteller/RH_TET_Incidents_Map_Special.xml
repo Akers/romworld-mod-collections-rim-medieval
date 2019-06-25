@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <StrangerInBlackJoin.label>陌生的黑衣人</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.letterLabel>陌生的黑衣人</StrangerInBlackJoin.letterLabel>
+  <StrangerInBlackJoin.letterText>一个神秘的 [PAWN_kind] 已到来，这或许是个麻烦。\n\n或许 [PAWN_pronoun] 应该做点什么?</StrangerInBlackJoin.letterText>
+</LanguageData>

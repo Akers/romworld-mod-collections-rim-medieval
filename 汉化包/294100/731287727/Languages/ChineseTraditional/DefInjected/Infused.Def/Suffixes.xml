@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 0 -->
+
+  <Warrior.label>warrior</Warrior.label>
+  <Warrior.labelShort>warr</Warrior.labelShort>
+
+  <Scout.label>scout</Scout.label>
+  <Scout.labelShort>sct</Scout.labelShort>
+
+  <Ranger.label>ranger</Ranger.label>
+  <Ranger.labelShort>rang</Ranger.labelShort>
+
+  <Worker.label>worker</Worker.label>
+  <Worker.labelShort>work</Worker.labelShort>
+
+  <Guard.label>guard</Guard.label>
+  <Guard.labelShort>gurd</Guard.labelShort>
+
+
+  <!-- Tier 1 ! -->
+
+  <Mind.label>mind</Mind.label>
+  <Mind.labelShort>mind</Mind.labelShort>
+
+  <Knowledge.label>knowledge</Knowledge.label>
+  <Knowledge.labelShort>know</Knowledge.labelShort>
+
+  <Discovery.label>discovery</Discovery.label>
+  <Discovery.labelShort>disc</Discovery.labelShort>
+
+  <Labour.label>labour</Labour.label>
+  <Labour.labelShort>labr</Labour.labelShort>
+
+  <Haste.label>haste</Haste.label>
+  <Haste.labelShort>hste</Haste.labelShort>
+
+  <Summer.label>summer</Summer.label>
+  <Summer.labelShort>summ</Summer.labelShort>
+
+  <Winter.label>winter</Winter.label>
+  <Winter.labelShort>wint</Winter.labelShort>
+
+  <Defense.label>defense</Defense.label>
+  <Defense.labelShort>defn</Defense.labelShort>
+
+
+  <!-- Tier 2 ! -->
+
+  <Success.label>success</Success.label>
+  <Success.labelShort>sucs</Success.labelShort>
+
+  <Passion.label>passion</Passion.label>
+  <Passion.labelShort>pass</Passion.labelShort>
+
+  <Blessing.label>blessing</Blessing.label>
+  <Blessing.labelShort>blss</Blessing.labelShort>
+
+  <Diligence.label>diligence</Diligence.label>
+  <Diligence.labelShort>dili</Diligence.labelShort>
+
+  <Research.label>research</Research.label>
+  <Research.labelShort>rsch</Research.labelShort>
+
+  <Fastwalk.label>fastwalk</Fastwalk.label>
+  <Fastwalk.labelShort>fwlk</Fastwalk.labelShort>
+
+  <Friendship.label>friendship</Friendship.label>
+  <Friendship.labelShort>frnd</Friendship.labelShort>
+
+  <Desert.label>desert</Desert.label>
+  <Desert.labelShort>dsrt</Desert.labelShort>
+
+  <Tundra.label>tundra</Tundra.label>
+  <Tundra.labelShort>tund</Tundra.labelShort>
+
+  <Protection.label>protection</Protection.label>
+  <Protection.labelShort>prot</Protection.labelShort>
+
+
+  <!-- Tier 3 ! -->
+
+  <Memories.label>memories</Memories.label>
+  <Memories.labelShort>memo</Memories.labelShort>
+
+  <Experiments.label>experiments</Experiments.label>
+  <Experiments.labelShort>exp</Experiments.labelShort>
+
+  <Everwork.label>everwork</Everwork.label>
+  <Everwork.labelShort>evwk</Everwork.labelShort>
+
+  <Persuation.label>persuation</Persuation.label>
+  <Persuation.labelShort>pers</Persuation.labelShort>
+
+  <Encounter.label>encounter</Encounter.label>
+  <Encounter.labelShort>encn</Encounter.labelShort>
+
+  <Momentum.label>momentum</Momentum.label>
+  <Momentum.labelShort>momn</Momentum.labelShort>
+
+  <Victory.label>victory</Victory.label>
+  <Victory.labelShort>vict</Victory.labelShort>
+
+  <Sight.label>sight</Sight.label>
+  <Sight.labelShort>sght</Sight.labelShort>
+
+  <Flame.label>flame</Flame.label>
+  <Flame.labelShort>flme</Flame.labelShort>
+
+  <Ice.label>ice</Ice.label>
+  <Ice.labelShort>ice</Ice.labelShort>
+
+  <Stronghold.label>stronghold</Stronghold.label>
+  <Stronghold.labelShort>hold</Stronghold.labelShort>
+
+
+  <!-- Tier 4 ! -->
+
+  <Omnipresence.label>omnipresence</Omnipresence.label>
+  <Omnipresence.labelShort>ompr</Omnipresence.labelShort>
+
+  <Omnipotence.label>omnipotence</Omnipotence.label>
+  <Omnipotence.labelShort>ompo</Omnipotence.labelShort>
+
+  <FatalBlow.label>fatal blow</FatalBlow.label>
+  <FatalBlow.labelShort>fatl</FatalBlow.labelShort>
+
+  <Hypervision.label>visn</Hypervision.label>
+  <Hypervision.labelShort>sght</Hypervision.labelShort>
+
+  <Master.label>master</Master.label>
+  <Master.labelShort>mast</Master.labelShort>
+
+  <Alliance.label>alliance</Alliance.label>
+  <Alliance.labelShort>ally</Alliance.labelShort>
+
+  <Sunlight.label>sunlight</Sunlight.label>
+  <Sunlight.labelShort>sun</Sunlight.labelShort>
+
+  <Moonlight.label>moonlight</Moonlight.label>
+  <Moonlight.labelShort>moon</Moonlight.labelShort>
+
+  <Titanguard.label>titanguard</Titanguard.label>
+  <Titanguard.labelShort>titn</Titanguard.labelShort>
+
+
+  <!-- Tier 5 ! -->
+
+  <Infinity.label>infinity</Infinity.label>
+  <Infinity.labelShort>ifnt</Infinity.labelShort>
+
+  <Possibility.label>possibility</Possibility.label>
+  <Possibility.labelShort>poss</Possibility.labelShort>
+
+  <Cycle.label>cycle</Cycle.label>
+  <Cycle.labelShort>cycl</Cycle.labelShort>
+
+  <Invulnerability.label>invulnerability</Invulnerability.label>
+  <Invulnerability.labelShort>inv</Invulnerability.labelShort>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RepairTheTentReserved>修理帐篷（已预留给其他人）</RepairTheTentReserved>
+  <RepairTheTentByStuff>修理帐篷（需要{0}份{1}）</RepairTheTentByStuff>
+  <!--letters-->
+  <CannotPlaceFulDamagedTent>无法部署已完全损坏的帐篷。</CannotPlaceFulDamagedTent>
+  <TentPlacementBlocked>帐篷部署受阻。请部署在合适的位置。</TentPlacementBlocked>
+  <TentPlacementBlockedByActive>帐篷部署受阻（物品、生物或者建筑）。请部署在合适的位置。</TentPlacementBlockedByActive>
+  <TentPlacementBlockedByTree>帐篷部署受阻（树木）。请部署在合适的位置。</TentPlacementBlockedByTree>
+  <NoAvailableStuffToRepairTent>没有足够的{0}来修理帐篷（需要{1}）</NoAvailableStuffToRepairTent>
+  <DamagedTentDeployed>受损的帐篷已部署，部分墙壁会丢失。</DamagedTentDeployed>
+
+</LanguageData>

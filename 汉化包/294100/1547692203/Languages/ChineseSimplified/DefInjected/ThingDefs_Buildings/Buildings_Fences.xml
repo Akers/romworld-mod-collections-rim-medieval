@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<WoodFence.label>木栅栏</FAFWoodTile.label>
+	<WoodFence.description>非常棒的古风木栅栏</WoodFence.description>
+
+	<WoodFenceGate.label>木栅栏门</WoodFenceGate.label>
+	<WoodFenceGate.description>木制的栅栏门</WoodFenceGate.description>
+
+	<WoodFenceGateB.label>木栅栏门(垂直)</WoodFenceGateB.label>
+	<FAFMetalTWoodFenceGateBileA.description>木制的栅栏门</WoodFenceGateB.description>
+
+	<ChainFence.label>铁丝网栅栏</ChainFence.label>
+	<ChainFence.description>由坚固的铁丝网组成的栅栏</ChainFence.description>
+
+	<ChainFenceGate.label>铁丝网栅栏门</ChainFenceGate.label>
+	<ChainFenceGate.description>由坚固的铁丝网组成的栅栏门。</ChainFenceGate.description>
+
+	<ChainFenceGateB.label>铁丝网栅栏门(垂直)</ChainFenceGateB.label>
+	<ChainFenceGateB.description>由坚固的铁丝网组成的栅栏门。</ChainFenceGateB.description>
+
+	<TechFence.label>安全栅栏</TechFence.label>
+	<TechFence.description>高大且顶部带有防攀爬的锋利铁丝的钢制栅栏</TechFence.description>
+
+	<TechFenceGate.label>安全栅栏门</TechFenceGate.label>
+	<TechFenceGate.description>高大且顶部带有防攀爬的锋利铁丝的钢制栅栏门。</TechFenceGate.description>
+
+	<TechFenceGateB.label>安全栅栏门(垂直)</TechFenceGateB.label>
+	<TechFenceGateB.description>高大且顶部带有防攀爬的锋利铁丝的钢制栅栏门。</TechFenceGateB.description>
+
+  <TechFence.label>安全屏障</TechFence.label>
+	<TechFence.description>腰部高度安全屏障，旨在战斗情况下提供紧急掩护</TechFence.description>
+</LanguageData>

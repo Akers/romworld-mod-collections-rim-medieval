@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RH_TET_Dwarfs_TakePickledFoodFromPicklingCrock.label>从腌菜缸里拿出腌渍食物</RH_TET_Dwarfs_TakePickledFoodFromPicklingCrock.label>
+  <RH_TET_Dwarfs_TakePickledFoodFromPicklingCrock.verb>拿取腌渍食物</RH_TET_Dwarfs_TakePickledFoodFromPicklingCrock.verb>
+  <RH_TET_Dwarfs_TakePickledFoodFromPicklingCrock.gerund>正在拿取腌渍食物</RH_TET_Dwarfs_TakePickledFoodFromPicklingCrock.gerund>
+  <RH_TET_Dwarfs_TakePickledFoodFromPicklingCrock.reportString>正在将腌渍食物从 TargetA 中取出</RH_TET_Dwarfs_TakePickledFoodFromPicklingCrock.reportString>
+  <RH_TET_Dwarfs_PutPicklingInPickleCrock.label>将食物放入腌菜缸</RH_TET_Dwarfs_PutPicklingInPickleCrock.label>
+  <RH_TET_Dwarfs_PutPicklingInPickleCrock.verb>放入</RH_TET_Dwarfs_PutPicklingInPickleCrock.verb>
+  <RH_TET_Dwarfs_PutPicklingInPickleCrock.gerund>正在放入</RH_TET_Dwarfs_PutPicklingInPickleCrock.gerund>
+  <RH_TET_Dwarfs_PutPicklingInPickleCrock.reportString>正在将腌渍食物放入 TargetA</RH_TET_Dwarfs_PutPicklingInPickleCrock.reportString>
+
+  <RH_TET_Dwarfs_TakeCuredMeatFromCuringPot.label>从烟熏锅中取出熏肉</RH_TET_Dwarfs_TakeCuredMeatFromCuringPot.label>
+  <RH_TET_Dwarfs_TakeCuredMeatFromCuringPot.verb>拿取熏肉</RH_TET_Dwarfs_TakeCuredMeatFromCuringPot.verb>
+  <RH_TET_Dwarfs_TakeCuredMeatFromCuringPot.gerund>正在拿取熏肉</RH_TET_Dwarfs_TakeCuredMeatFromCuringPot.gerund>
+  <RH_TET_Dwarfs_TakeCuredMeatFromCuringPot.reportString>正在将熏肉从 TargetA 中取出</RH_TET_Dwarfs_TakeCuredMeatFromCuringPot.reportString>
+  <RH_TET_Dwarfs_PutCureIntoCuringPot.label>将食物放入烟熏锅</RH_TET_Dwarfs_PutCureIntoCuringPot.label>
+  <RH_TET_Dwarfs_PutCureIntoCuringPot.verb>放入</RH_TET_Dwarfs_PutCureIntoCuringPot.verb>
+  <RH_TET_Dwarfs_PutCureIntoCuringPot.gerund>正在放入</RH_TET_Dwarfs_PutCureIntoCuringPot.gerund>
+  <RH_TET_Dwarfs_PutCureIntoCuringPot.reportString>正在将熏肉放入 TargetA</RH_TET_Dwarfs_PutCureIntoCuringPot.reportString>
+
+  <RH_TET_Dwarfs_TakeDriedCuredMeatFromCuringCabinet.label>从烘干柜中取出熏肉干</RH_TET_Dwarfs_TakeDriedCuredMeatFromCuringCabinet.label>
+  <RH_TET_Dwarfs_TakeDriedCuredMeatFromCuringCabinet.verb>拿取熏肉干</RH_TET_Dwarfs_TakeDriedCuredMeatFromCuringCabinet.verb>
+  <RH_TET_Dwarfs_TakeDriedCuredMeatFromCuringCabinet.gerund>正在拿取熏肉干</RH_TET_Dwarfs_TakeDriedCuredMeatFromCuringCabinet.gerund>
+  <RH_TET_Dwarfs_TakeDriedCuredMeatFromCuringCabinet.reportString>正在将拿取熏肉干从 TargetA 中取出</RH_TET_Dwarfs_TakeDriedCuredMeatFromCuringCabinet.reportString>
+  <RH_TET_Dwarfs_PutCuredMeatIntoCuringCabinet.label>将食物放入烘干柜</RH_TET_Dwarfs_PutCuredMeatIntoCuringCabinet.label>
+  <RH_TET_Dwarfs_PutCuredMeatIntoCuringCabinet.verb>放入</RH_TET_Dwarfs_PutCuredMeatIntoCuringCabinet.verb>
+  <RH_TET_Dwarfs_PutCuredMeatIntoCuringCabinet.gerund>正在放入</RH_TET_Dwarfs_PutCuredMeatIntoCuringCabinet.gerund>
+  <RH_TET_Dwarfs_PutCuredMeatIntoCuringCabinet.reportString>正在将熏肉干放入 TargetA</RH_TET_Dwarfs_PutCuredMeatIntoCuringCabinet.reportString>
+
+</LanguageData>

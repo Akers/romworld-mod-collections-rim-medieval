@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RH_TET_ExtractMetalFromSlag.label>熔炼金属</RH_TET_ExtractMetalFromSlag.label>
+  <RH_TET_ExtractMetalFromSlag.description>消耗热量从渣块中提取有用的金属。</RH_TET_ExtractMetalFromSlag.description>
+  <RH_TET_ExtractMetalFromSlag.jobString>从炉渣中冶炼金属</RH_TET_ExtractMetalFromSlag.jobString>
+  <RH_TET_SmeltWeapon.label>熔炼武器</RH_TET_SmeltWeapon.label>
+  <RH_TET_SmeltWeapon.description>消耗热量熔炼武器以回收有用资源。</RH_TET_SmeltWeapon.description>
+  <RH_TET_SmeltWeapon.jobString>正在熔炼武器</RH_TET_SmeltWeapon.jobString>
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <RH_TET_SpikedTail.label>狼牙棒尾巴</RH_TET_SpikedTail.label>
+  <RH_TET_SpikedTail.labelShort>尾巴</RH_TET_SpikedTail.labelShort>
+  <!-- Similar to a warg, bigger, tougher, has a spiked tail. -->  
+  <RH_TET_RazorgorBody.label>拉兹戈尔兽</RH_TET_RazorgorBody.label>
+  <RH_TET_RazorgorBody.corePart.parts.0.customLabel>尾巴</RH_TET_RazorgorBody.corePart.parts.0.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.1.customLabel>脊柱</RH_TET_RazorgorBody.corePart.parts.1.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.2.customLabel>胃</RH_TET_RazorgorBody.corePart.parts.2.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.3.customLabel>心脏</RH_TET_RazorgorBody.corePart.parts.3.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.4.customLabel>左肺</RH_TET_RazorgorBody.corePart.parts.4.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.5.customLabel>右肺</RH_TET_RazorgorBody.corePart.parts.5.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.6.customLabel>左肾脏</RH_TET_RazorgorBody.corePart.parts.6.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.7.customLabel>右肾脏</RH_TET_RazorgorBody.corePart.parts.7.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.8.customLabel>肝</RH_TET_RazorgorBody.corePart.parts.8.customLabel>  
+  <RH_TET_RazorgorBody.corePart.parts.9.customLabel>颈部</RH_TET_RazorgorBody.corePart.parts.9.customLabel>  
+  <RH_TET_RazorgorBody.corePart.parts.9.parts.0.customLabel>头部</RH_TET_RazorgorBody.corePart.parts.9.parts.0.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.0.customLabel>头骨</RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.0.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.1.customLabel>左眼</RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.1.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.2.customLabel>右眼</RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.2.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.3.customLabel>左耳</RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.3.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.4.customLabel>右耳</RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.4.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.5.customLabel>鼻子</RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.5.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.6.customLabel>动物下颚</RH_TET_RazorgorBody.corePart.parts.9.parts.0.parts.6.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.10.customLabel>左前腿</RH_TET_RazorgorBody.corePart.parts.10.customLabel>  
+  <RH_TET_RazorgorBody.corePart.parts.10.parts.0.customLabel>左前蹄</RH_TET_RazorgorBody.corePart.parts.10.parts.0.customLabel>    
+  <RH_TET_RazorgorBody.corePart.parts.11.customLabel>右前腿</RH_TET_RazorgorBody.corePart.parts.11.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.11.parts.0.customLabel>右前蹄</RH_TET_RazorgorBody.corePart.parts.11.parts.0.customLabel>  
+  <RH_TET_RazorgorBody.corePart.parts.12.customLabel>左后腿</RH_TET_RazorgorBody.corePart.parts.12.customLabel>
+  <RH_TET_RazorgorBody.corePart.parts.12.parts.0.customLabel>左后蹄</RH_TET_RazorgorBody.corePart.parts.12.parts.0.customLabel>  
+  <RH_TET_RazorgorBody.corePart.parts.13.customLabel>右后腿</RH_TET_RazorgorBody.corePart.parts.13.customLabel>  
+  <RH_TET_RazorgorBody.corePart.parts.13.parts.0.customLabel>右后蹄</RH_TET_RazorgorBody.corePart.parts.13.parts.0.customLabel>  
+</LanguageData>

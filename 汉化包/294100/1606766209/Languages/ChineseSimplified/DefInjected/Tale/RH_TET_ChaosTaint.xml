@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RH_TET_ChaosTaintRevealed.label>混沌渗透点</RH_TET_ChaosTaintRevealed.label>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]'s body becoming corrupted</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.0>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] being corrupted by chaos</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.1>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.2>image->[PAWN_nameFull] staggering through a field [circumstance_group]</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.2>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.3>image->[PAWN_nameFull] lying on the ground [circumstance_group]</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.3>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.4>image->[PAWN_nameFull] mindlessly removing [PAWN_possessive] clothes [circumstance_group]</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.4>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.5>circumstance_phrase->and sweating uncontrollably</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.5>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.6>circumstance_phrase->and shivering uncontrollably</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.6>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.7>circumstance_phrase->while both sweating and shivering</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.7>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.8>circumstance_phrase->with things moving under their skin</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.8>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.9>circumstance_phrase->while vomiting</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.9>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.10>circumstance_phrase->with a visible rash</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.10>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.11>desc_sentence->[Quantity_adjphrase] twisted [Animal] corpses surround the area.</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.11>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.12>desc_sentence->[PAWN_nameDef]'s clothes are falling apart.</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.12>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.13>desc_sentence->The sky is a chaotic [Color].</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.13>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.14>desc_sentence->[Quantity_adjphrase] twisted [Color] [TerrainFeature]s surround the scene.</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.14>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.15>desc_sentence->The scene takes place inside a twisted [TreeType] forest.</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.15>
+  <RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.16>desc_sentence->[Quantity_adjphrase] dying [Animal]s lay on the ground.</RH_TET_ChaosTaintRevealed.rulePack.rulesStrings.16>
+
+
+</LanguageData>

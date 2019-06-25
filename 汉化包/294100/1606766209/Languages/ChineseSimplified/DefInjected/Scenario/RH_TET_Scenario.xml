@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RH_TET_PlayerColony.label>村庄</RH_TET_PlayerColony.label>
+  <RH_TET_PlayerColony.description>你的社区</RH_TET_PlayerColony.description>
+  <RH_TET_SimpleColony.label>边缘战锤——终焉之时（末日殖民者）</RH_TET_SimpleColony.label>
+  <RH_TET_SimpleColony.description>尽管世界上不断发生战争和动荡, 混沌的威胁也在不断蔓延;人们过着他们简单的生活。一群这样的人聚集在一起, 开始了新殖民生活。</RH_TET_SimpleColony.description>
+  <RH_TET_SimpleColony.scenario.name>边缘战锤——大破灭的殖民者（末日殖民者）</RH_TET_SimpleColony.scenario.name>
+  <RH_TET_SimpleColony.scenario.summary>三个角色--一个以战锤为主题的剧本 一个经典的《边缘世界》的游戏体验。</RH_TET_SimpleColony.scenario.summary>
+  <RH_TET_SimpleColony.scenario.description>尽管世界上不断发生战争和动荡, 混沌的威胁也在不断蔓延;人们过着他们简单的生活。一群这样的人聚集在一起, 开始了新殖民生活。</RH_TET_SimpleColony.scenario.description>
+  <RH_TET_SimpleColony.scenario.parts.11.text>尽管世界上不断发生战争和动荡, 混沌的威胁也在不断蔓延;人们过着他们简单的生活。一群这样的人聚集在一起, 开始了新殖民生活。他们能在各种困难中生存吗？</RH_TET_SimpleColony.scenario.parts.11.text>
+
+
+</LanguageData>

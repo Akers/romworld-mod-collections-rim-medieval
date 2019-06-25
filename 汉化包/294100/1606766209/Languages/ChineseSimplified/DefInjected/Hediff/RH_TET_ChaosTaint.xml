@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RH_TET_ChaosTaintBuildup.label>混沌污染堆积</RH_TET_ChaosTaintBuildup.label>
+  <RH_TET_ChaosTaintBuildup.stages.0.label>混沌初现</RH_TET_ChaosTaintBuildup.stages.0.label>
+  <RH_TET_ChaosTaintBuildup.stages.1.label>混沌初现</RH_TET_ChaosTaintBuildup.stages.1.label>
+  <RH_TET_ChaosTaintBuildup.stages.2.label>轻度腐蚀</RH_TET_ChaosTaintBuildup.stages.2.label>
+  <RH_TET_ChaosTaintBuildup.stages.3.label>中度腐蚀</RH_TET_ChaosTaintBuildup.stages.3.label>
+  <RH_TET_ChaosTaintBuildup.stages.4.label>重度腐蚀</RH_TET_ChaosTaintBuildup.stages.4.label>
+  <RH_TET_ChaosTaintBuildup.stages.5.label>极度腐蚀</RH_TET_ChaosTaintBuildup.stages.5.label>
+
+
+</LanguageData>

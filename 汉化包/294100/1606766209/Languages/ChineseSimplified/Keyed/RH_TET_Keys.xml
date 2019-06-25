@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <WH_TET_Title>边缘战锤, 终焉之时</WH_TET_Title>
+    <WH_TET_FullDate>{0} / {1}, {2}, 终焉之时</WH_TET_FullDate>
+    <WH_TET_DateReadout>{0} / {1}, {2}, 终焉之时</WH_TET_DateReadout>
+
+    <RH_TET_PawnSuccumbedToChaos_Berserk>{0} 已屈服于混沌的腐蚀，并开始神志不清。</RH_TET_PawnSuccumbedToChaos_Berserk>
+    <RH_TET_PawnWildSuccumbedToChaos_Berserk>一只 {0} 已屈服于混沌的腐蚀，并开始神志不清。</RH_TET_PawnWildSuccumbedToChaos_Berserk>
+
+    <RH_TET_PawnSuccumbedToChaos_Spawn>{0} 已被彻底腐蚀, 并且变成了一个混沌卵。</RH_TET_PawnSuccumbedToChaos_Spawn>
+    <RH_TET_PawnWildSuccumbedToChaos_Spawn>一只 {0} 已被彻底腐蚀, 并且变成了一个混沌卵。</RH_TET_PawnWildSuccumbedToChaos_Spawn>
+
+    <RH_TET_PlaceWorker_OnTopOfWalls>必须放在墙上。</RH_TET_PlaceWorker_OnTopOfWalls>
+
+    <RH_TET_ContainsPickling>包含 {0} / {1} 个腌制中的物品。</RH_TET_ContainsPickling>
+    <RH_TET_ContainsPickledFood>包含 {0} / {1} 个已腌制食品。</RH_TET_ContainsPickledFood>
+    <RH_TET_NoPickling>需要腌制</RH_TET_NoPickling>	
+    <RH_TET_Pickled>已腌制</RH_TET_Pickled>	
+    <RH_TET_PicklingProgress>{0} 已腌制, 剩余时间：{1} 。</RH_TET_PicklingProgress>	
+    <RH_TET_PicklingCrockOutOfIdealTemperature>外部温度适宜, 当前腌制率 {0}。</RH_TET_PicklingCrockOutOfIdealTemperature>
+    <RH_TET_IdealPicklingTemperature>适宜的腌制温度</RH_TET_IdealPicklingTemperature>	
+        
+    <RH_TET_ContainsCuring>包含 {0} / {1} 个正在熏制的肉。</RH_TET_ContainsCuring>
+    <RH_TET_ContainsCuredFood>包含 {0} / {1} 烟熏肉。</RH_TET_ContainsCuredFood>
+    <RH_TET_NoCure>需要熏制</RH_TET_NoCure>	
+    <RH_TET_Cured>已熏制</RH_TET_Cured>	
+    <RH_TET_CuringProgress>{0} 已熏制, 剩余时间：{1}</RH_TET_CuringProgress>	
+    <RH_TET_CuringPotOutOfIdealTemperature>外部温度适宜, 当前熏制率 {0}。</RH_TET_CuringPotOutOfIdealTemperature>
+    <RH_TET_IdealCuringTemperature>适宜的熏制温度</RH_TET_IdealCuringTemperature>	
+
+    <RH_TET_ContainsDryingCuring>包含 {0} / {1} 个正在烘干的烟熏肉。</RH_TET_ContainsDryingCuring>
+    <RH_TET_ContainsDryingCuredFood>包含 {0} / {1} 个熏肉干。</RH_TET_ContainsDryingCuredFood>
+    <RH_TET_NoCuredMeat>需烘干的烟熏肉</RH_TET_NoCuredMeat>	
+    <RH_TET_Dried>已烘干</RH_TET_Dried>	
+    <RH_TET_DryingProgress>{0} 已烘干, 剩余时间：{1}。</RH_TET_DryingProgress>	
+    <RH_TET_CuringCabinetOutOfIdealTemperature>外部温度适宜, 当前烘干率 {0}。</RH_TET_CuringCabinetOutOfIdealTemperature>
+    <RH_TET_IdealDryingTemperature>适宜的烘干温度。</RH_TET_IdealDryingTemperature>	
+	
+</LanguageData>

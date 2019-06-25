@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PlantChaosWastesTreeDead.label>枯树</PlantChaosWastesTreeDead.label>
+  <PlantChaosWastesTreeDead.description>一颗已死或快要死的树</PlantChaosWastesTreeDead.description>
+  <PlantChaosWastesGrass.label>废土枯草</PlantChaosWastesGrass.label>
+  <PlantChaosWastesGrass.description>生长缓慢的野草，在它上面走过时移动速度会被减慢。 干燥、大多数甚至已经死亡，不包含太多营养。</PlantChaosWastesGrass.description>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RepairTheTentReserved>Repair the tent(reserved)</RepairTheTentReserved>
+  <RepairTheTentByStuff>Repair the tent({0} {1} needed)</RepairTheTentByStuff>
+  <!--letters-->
+  <CannotPlaceFulDamagedTent>Cannot place a fully damaged tent.</CannotPlaceFulDamagedTent>
+  <TentPlacementBlocked>Tent placement blocked. Please deploy on a suitable space.</TentPlacementBlocked>
+  <TentPlacementBlockedByActive>Tent placement blocked by a item, pawn or a building. Please deploy on a suitable space.</TentPlacementBlockedByActive>
+  <TentPlacementBlockedByTree>Tent placement blocked by a tree. Please deploy on a suitable space.</TentPlacementBlockedByTree>
+  <NoAvailableStuffToRepairTent>There is no {0} available to repair the tent (Need {1})</NoAvailableStuffToRepairTent>
+  <DamagedTentDeployed>Damaged tent deployed. Some walls will be missing.</DamagedTentDeployed>
+</LanguageData>

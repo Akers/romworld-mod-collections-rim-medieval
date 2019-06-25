@@ -1,0 +1,24 @@
+前言：
+汉化包主要从网上流传的汉化版Mod（因某些原因并未被整合到创意工坊）中提取的汉化资源文件.
+使用方式：
+请支持正版游戏，在创意工坊中订阅Mod后，将294100文件夹复制到Stream的创意工坊内容目录内，一般为steamapps\workshop\content
+注：steamapps目录是Stream的游戏安装目录，可以在库里右键游戏 -> 属性 -> 本地文件 -> 浏览本地文件，然后在游戏安装目录的父级目录common的父级目录下即可找到content目录，
+如：我的环世界的安装目录为：D:\Games\steamapps\common\RimWorld，则创意工坊内容所在的目录为D:\Games\steamapps\workshop\content
+
+汉化包清单：
+1. Weapon Tech 更多武器科技
+来源：百度RimWorld吧汉化Mod提取
+原Mod的SteamID：1542854752
+汉化Mod链接：http://dq.tieba.com/p/5979160912?pid=123249582260&cid=0#123249582260
+
+2. Real Ruins 真实遗迹
+来源：百度RimWorld吧汉化Mod提取
+原Mod的SteamID：1552146295
+汉化Mod链接：http://dq.tieba.com/p/5962095363?pid=123018895040&cid=0#123018895040
+
+
+
+
+
+
+请尊重Mod作者以及汉化作者的相关权益，在转载时保留相关作者信息，尽量支持正版游戏！
